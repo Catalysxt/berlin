@@ -5,3 +5,7 @@
 **About Processing:** Think of Processing as C++ but with drawing functions. Whilst it’s based on Java, it shares a similar syntax to C++. Thus, if you're from a C++ background it will feel familiar.
 
 ***NOTE:** Processing saves programs into a folder called a **Sketchbook.** The files in this repo are stored in a folder with the same name.*
+
+NOTE: Not all examples from the book are covered.
+
+Each lesson comes with an image conveying the result of running the program.
