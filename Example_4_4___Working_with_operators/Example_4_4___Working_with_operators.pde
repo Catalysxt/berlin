@@ -1,0 +1,22 @@
+void setup() {
+  size(480, 240); 
+}
+
+void draw(){
+
+  int x = 25;
+  int h = 20;
+  int y = 25;
+  
+  rect(x, y, 300, h);
+  
+  x += 100;
+  rect(x, y+h, 300, h);
+  
+  x -= 250;
+  rect(x, y+h*2, 300, h);
+
+  x += 230;
+  rect(x, y+h*3, 300, h);
+  
+}
